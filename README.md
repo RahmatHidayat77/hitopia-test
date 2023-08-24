@@ -2,6 +2,7 @@
 
 ## Output
 ### Soal 1
+![image](https://github.com/RahmatHidayat77/hitopia-test/assets/26325489/43274085-6214-41f2-8a30-7205e988b664)
 
 ### Soal 2
 
