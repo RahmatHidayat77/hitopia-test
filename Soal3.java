@@ -6,7 +6,7 @@ public class Soal3 {
     public static Boolean balanceBracket(String str) {
         Deque<Character> deque = new LinkedList<>();
         str = str.replaceAll("\\s", "");
-        // System.out.println(str);
+        System.out.println(str);
         for (char ch: str.toCharArray()) {
             if (ch == '{' || ch == '[' || ch == '(') {
                 deque.addFirst(ch);

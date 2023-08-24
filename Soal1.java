@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Soal1 {
+public class Soal1 {
     public static void weightString(String str, List<Integer> queries) {
         HashMap<String, Integer> weightString = new HashMap<String, Integer>();
         List<Integer> calculate = new ArrayList<>();
